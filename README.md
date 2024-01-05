@@ -1,7 +1,7 @@
 # Rubik's Cube Implementation with OpenGL
 ### By: Eileen Karin Apaza Coaquira && Gabriel Valdivia
 
-## Descripción:
+## Description:
 This repository contains a comprehensive implementation of a Rubik's Cube using C++ and OpenGL. The project features a fully functional main animation and additional similar ones. The primary objective behind this work was to delve into the fundamental principles of OpenGL and hone skills in computer graphics. This implementation was crafted by referencing the content available on the webpage learnopengl.com.
 
 Para este trabajo se utilizó la librería glm para la aplicación de los fragment y vertex shader y para aplicar las matrices de proyección. 
