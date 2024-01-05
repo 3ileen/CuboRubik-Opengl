@@ -38,5 +38,5 @@ Finally, we apply the solver to our Rubik's Cube. Movements are crucial as we'll
 ![cubo_armado](https://github.com/3ileen/CuboRubik-Opengl/assets/65795781/c496881e-7b39-4dc0-b6c1-10eaf064e39f)
 
 
-Additional Notes
+## Additional Notes
 This project is currently under active development, and there might be areas for improvement. If you have suggestions, ideas, or encounter any issues, please feel free to open an issue or a pull request! You can also reach out to me via my personal email: 21eileenac@gmail.com
