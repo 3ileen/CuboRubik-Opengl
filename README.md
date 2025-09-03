@@ -22,4 +22,6 @@ Finally, we apply the solver to our Rubik's Cube. Movements are crucial as we'll
 
 
 ## Additional Notes
- If you have suggestions, ideas, or encounter any issues, please feel free to open an issue or a pull request! You can also reach out to me via my personal email: 21eileenac@gmail.com
+ If you have suggestions, ideas, or encounter any issues, please feel free to open an issue or a pull request! You can also reach out to me via my personal email: 21eileenac@gmail.com 
+
+ 
