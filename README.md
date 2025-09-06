@@ -1,5 +1,5 @@
 # Rubik's Cube Implementation with OpenGL
- By: Eileen Apaza && Gabriel Valdivia
+ Authors: Eileen Apaza, Gabriel Valdivia
 
 ## Description:
 This repository contains a comprehensive implementation of a Rubik's Cube using C++ and OpenGL. The project features a fully functional main animation and additional similar ones.
